@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://theos.dev/img/github-banner-dark.svg">
-<img src="https://theos.dev/img/github-banner.svg" alt="Theos">
+<source media="(prefers-color-scheme: dark)" srcset="https://theos.dev/assets/img/github-banner-dark.svg">
+<img src="https://theos.dev/assets/img/github-banner.svg" alt="Theos">
 </picture>
 </p>
 <p align="center"><strong>
